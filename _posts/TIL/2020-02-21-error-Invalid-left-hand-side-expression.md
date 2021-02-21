@@ -5,9 +5,9 @@ categories: til javascript
 
 ---
 
-![error-chrome-invalid-left-handside-expression.png](../../img/error-chrome-invalid-left-handside-expression.png){width:"200px"}
+![error-chrome-invalid-left-handside-expression.png](../../img/error-chrome-invalid-left-handside-expression.png)
 
-![error-jstl-intellij.png](../../img/error-jstl-intellij.png){width:"200px"}
+![error-jstl-intellij.png](../../img/error-jstl-intellij.png)
 
 
 
