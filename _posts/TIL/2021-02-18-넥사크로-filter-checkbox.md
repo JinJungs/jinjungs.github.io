@@ -1,5 +1,5 @@
 ---
-title: "210218_[넥사크로]filter와 checkbox 선택 안되는 "
+title: "210218_[넥사크로]filter와 checkbox 선택 안되는 오류 해결"
 date: 2021-02-18 19:02:28 -0400
 categories: til
 ---
