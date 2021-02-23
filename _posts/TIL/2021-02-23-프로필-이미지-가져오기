@@ -1,0 +1,29 @@
+---
+title: "210223_프로필 이미지 가져오기"
+date: 2021-02-23 18:27:28 -0400
+categories: til javascript
+---
+
+
+### 프로필 이미지 가져오기
+
+이미 용국씨가 만들어놓은 매서드를 사용하니까 금방해결할 수 있었다.
+file 테이블에서 user의 아이디로 저장된 파일의 경로를 getProfile 이라는 변수에 담고, 프론트로 보낸다.
+프론트에서 img태그의 src경로에 넣어주면 끝!
+
+```java
+// 사용자의 프로필이미지 전송
+FilesDTO getProfile = filesService.findBeforeProfile(loginDTO.getCode());
+if(getProfile==null) {
+    param.put("profile","/img/Profile-m.png");
+}else{
+    String profileLoc = "/profileFile/" + getProfile.getSavedname();
+    System.out.println(profileLoc);
+    param.put("profile",profileLoc);
+}
+```
+
+```javascript
+// img 태그에 src 속성을 추가해서 back에서 가져온 프로필사진의 경로를 전달
+$(".side-img").attr("src",user_profile);
+```
