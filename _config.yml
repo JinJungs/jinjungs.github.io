@@ -269,8 +269,8 @@ compress_html:
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "jinjungs-github-io.disqus.com"
-
+    shortname            : "jinjungs-github-io"
+    
 # Defaults
 defaults:
   # _posts
