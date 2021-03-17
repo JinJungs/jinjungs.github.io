@@ -97,8 +97,8 @@ author:
   name             : "JinJungs"
   avatar           : "/assets/images/me-drawing.png"
   bio              : "하루하루는 성실하게, 인생전체는 되는대로."
-  location         : "Seoul, Republic of Korea"
-  email            : nehciyz@gmail.com
+  location         : "Seoul, Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
