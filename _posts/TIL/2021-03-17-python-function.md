@@ -1,5 +1,5 @@
 ---
-title: "210317_백준 1065  - 한수"
+title: "210317_[파이썬]함수 BOJ 문제풀이-2"
 description: "python 함수를 이용한 백준 알고리즘 풀이"
 date: 2021-03-17 18:58:28 -0400
 tags: python
