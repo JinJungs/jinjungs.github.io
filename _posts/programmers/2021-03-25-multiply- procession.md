@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스]행렬의 곱셈"
+title: "[python - 프로그래머스] 행렬의 곱셈"
 date: 2021-03-25 18:58:28 -0400
 tags: python
 comments: true
@@ -7,8 +7,6 @@ published: true
 categories: python
 typora-copy-images-to: ..\..\img
 ---
-
-### 행렬의 곱셈
 
 ```python
 def solution(arr1, arr2):

@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스]메뉴 리뉴얼"
+title: "[python - 프로그래머스] 메뉴 리뉴얼"
 date: 2021-03-26 18:58:28 -0400
 tags: python
 comments: true

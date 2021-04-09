@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스]광고 삽입"
+title: "[python - 프로그래머스] 광고 삽입"
 date: 2021-03-26 18:58:28 -0400
 tags: python
 comments: true
@@ -8,7 +8,7 @@ categories: python
 typora-copy-images-to: ..\..\img
 ---
 
-
+> 2021 KAKAO BLIND RECRUITMENT 문제입니다.
 
 ### 처음 풀었던 풀이
 첫번째 테스트게이스를 제외하고 시간초과에 걸려서 통과하지 못했다.
