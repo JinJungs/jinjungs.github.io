@@ -1,7 +1,7 @@
 ---
-title: "210221_[Error Diary]Invalid left-hand side expression in postfix operation "
+title: "[Error] Invalid left-hand side expression in postfix operation "
 date: 2021-02-21 18:24:28 -0400
-categories: til javascript
+categories: javascript
 
 ---
 

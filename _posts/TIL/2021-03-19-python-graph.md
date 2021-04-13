@@ -1,5 +1,5 @@
 ---
-title: "210319_[파이썬]다익스트라 알고리즘"
+title: "[python] 다익스트라 알고리즘"
 date: 2021-03-19 18:58:28 -0400
 tags: python
 comments: true

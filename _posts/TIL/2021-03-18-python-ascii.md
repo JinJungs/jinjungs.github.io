@@ -1,5 +1,5 @@
 ---
-title: "210318_[파이썬]아스키코드 변환하기"
+title: "[python] 아스키코드 변환하기"
 date: 2021-03-18 18:58:28 -0400
 tags: python
 comments: true
