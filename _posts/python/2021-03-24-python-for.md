@@ -1,5 +1,5 @@
 ---
-title: "[파이썬]for문 정리"
+title: "[python-문법]for문 정리"
 date: 2021-03-24 18:58:28 -0400
 tags: python
 comments: true
