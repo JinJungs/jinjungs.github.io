@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/keyboard-lego.jpg"
 logo                     : #"/assets/images/keyboard-lego.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -117,7 +117,7 @@ author:
       url: "https://github.com/JinJungs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/j_eui01/"
+      url: "https://www.instagram.com/j_eui03/"
 
 # Site Footer
 footer:
