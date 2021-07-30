@@ -1,6 +1,6 @@
 ---
 title: "[TIL] 210218_넥사크로 filter와 checkbox 선택 안되는 오류 해결"
-date: 2021-02-18 19:02:28 -0400
+date: 2021-02-18 19:02:28 +0900
 categories: til
 tags: nexacro
 ---

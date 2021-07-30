@@ -1,6 +1,6 @@
 ---
 title: "[TIL] 210322_파이썬 string 활용-1"
-date: 2021-03-22 18:58:28 -0400
+date: 2021-03-22 18:58:28 +0900
 tags: python
 comments: true
 published: true

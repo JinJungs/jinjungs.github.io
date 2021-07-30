@@ -1,7 +1,7 @@
 ---
 title: "[python-백준] 함수 BOJ 문제풀이-2"
 description: "python 함수를 이용한 백준 알고리즘 풀이"
-date: 2021-03-17 18:58:28 -0400
+date: 2021-03-17 18:58:28 +0900
 tags: python
 comments: true
 published: true

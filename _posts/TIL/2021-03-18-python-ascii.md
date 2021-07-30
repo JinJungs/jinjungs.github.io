@@ -1,6 +1,6 @@
 ---
 title: "[python] 아스키코드 변환하기"
-date: 2021-03-18 18:58:28 -0400
+date: 2021-03-18 18:58:28 +0900
 tags: python
 comments: true
 published: true
