@@ -1,6 +1,6 @@
 ---
 title: "[python-백준] 10870 - 피보나치 수 5"
-date: 2021-04-07 09:58:28 -0900
+date: 2021-04-07 09:58:28 +0900
 tags: python
 comments: true
 published: true

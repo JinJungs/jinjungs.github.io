@@ -1,6 +1,6 @@
 ---
 title: "[python-백준] 1929 - 소수 구하기(에라토스테네스의 체)"
-date: 2021-04-06 18:58:28 -0900
+date: 2021-04-06 18:58:28 +0900
 tags: python
 comments: true
 published: true
