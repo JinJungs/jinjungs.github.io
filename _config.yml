@@ -23,7 +23,7 @@ name                     : "JinJungs"
 description              : "매일 한발자국 나아가는 개발자의 블로그입니다."
 url                      : "https://jinjungs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jinjungs/jinjungs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/keyboard-lego.jpg"
 logo                     : #"/assets/images/keyboard-lego.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
