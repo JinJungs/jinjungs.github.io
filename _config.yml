@@ -12,10 +12,10 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "진정의 깃헙블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "JinJungs"
-  avatar           : "/assets/images/me-drawing.png"
+  avatar           : "/assets/images/behind_the_night.png"
   bio              : "하루하루는 성실하게, 인생전체는 되는대로."
-  location         : "Seoul, Korea"
+  location         : # "Seoul, Korea"
   email            : 
   links:
     - label: "Email"
@@ -117,7 +117,7 @@ author:
       url: "https://github.com/JinJungs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/j_eui03/"
+      # url: "https://www.instagram.com/j_eui03/"
 
 # Site Footer
 footer:
