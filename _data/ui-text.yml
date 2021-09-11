@@ -14,7 +14,7 @@ en: &DEFAULT_EN
   breadcrumb_separator       : "/"
   menu_label                 : "Toggle menu"
   search_label               : "Toggle search"
-  toc_label                  : "On this page"
+  toc_label                  : "👋 Table of Contents" # On this page -> Table of Contents
   ext_link_label             : "Direct link"
   less_than                  : "less than"
   minute_read                : "minute read"
@@ -605,7 +605,7 @@ ko: &DEFAULT_KO
   breadcrumb_separator       : "/"
   menu_label                 : "토글 메뉴"
   search_label               :
-  toc_label                  : "On This Page"
+  toc_label                  : "👋 Table of Contents" # On This Page -> Table of Contents
   ext_link_label             : "직접 링크"
   less_than                  : "최대"
   minute_read                : "분 소요"
@@ -613,7 +613,7 @@ ko: &DEFAULT_KO
   meta_label                 :
   tags_label                 : "태그:"
   categories_label           : "카테고리:"
-  date_label                 : "업데이트:"
+  date_label                 : " "            # 20210911 - 포스트 등록일자 '업데이트' 문구 삭제
   comments_label             : "댓글남기기"
   comments_title             : "댓글"
   more_label                 : "더 보기"
