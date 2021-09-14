@@ -2,10 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// @charset "utf-8";
+@charset "utf-8";
 
-// @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-// @import "minimal-mistakes"; // main partials    
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+// @import "minimal-mistakes/skins/default"; // skin # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+@import "minimal-mistakes"; // main partials    
 
 
 /* 20210911 - 기존 main.scss 파일을 덮어씌움 */
@@ -13,9 +14,6 @@ $sans-serif: 'Noto Sans KR';
 $monospace: 'Ubuntu Mono';
 $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 
-@charset "utf-8";
-@import "minimal-mistakes/skins/dirt"; // skin
-@import "minimal-mistakes";
 
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
 
@@ -64,3 +62,8 @@ html {
     }
   
 }
+
+/* 20210912 - 본문간격 넓히기*/
+$right-sidebar-width-narrow: 100px !default;    // default 200px
+$right-sidebar-width: 200px !default;           // default 300px
+$right-sidebar-width-wide: 250px !default;      // default 400px
