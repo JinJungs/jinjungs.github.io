@@ -1,5 +1,5 @@
 ---
-title: "[TIL] 210218_넥사크로 filter와 checkbox 선택 안되는 오류 해결"
+title: "[TIL] 넥사크로 filter와 checkbox 선택 안되는 오류 해결"
 date: 2021-02-18 19:02:28 +0900
 categories: til
 tags: nexacro
@@ -15,6 +15,8 @@ oracle 12c 이상부터는 컬럼의 invisible, visible 속성을 사용하면 �
 아쉽게도 나는 11c를 써서...작동되지 않았다. 다음에 업그레이드 되면 써보면 좋겠다.
 
 
+
+<br>
 
 ### 넥사크로 - filter
 
@@ -39,6 +41,8 @@ this.search_rdo_status = function(obj:nexacro.Radio,e:nexacro.ItemChangeEventInf
 
 
 
+<br>
+
 ### 넥사크로 - checkbox 체크 안되는 오류
 
 넥사크로 내에서 실행될 때는 체크가 잘 되는데, 서버에 배포하니까 체크박스가 안눌리는 문제가 발생하였다. 알고보니 넥사크로 dataset에서만 chk칼럼을 추가해 줄 뿐만 아니라, controller쪽에서도 chk에 값을 담아와야 했다. 
@@ -46,6 +50,8 @@ this.search_rdo_status = function(obj:nexacro.Radio,e:nexacro.ItemChangeEventInf
 그래서 setChk 로 모두 0을 담아준 후, Grid에서도 checkboxfalsevalue 를 0, checkboxtruevalue를 1로 설정해주니 잘 동작하였다. 
 
 
+
+<br>
 
 ### References
 

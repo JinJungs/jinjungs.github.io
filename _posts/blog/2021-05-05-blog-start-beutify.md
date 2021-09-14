@@ -1,15 +1,11 @@
 ---
-title: "[TIL] 210505_jekyll 블로그 꾸미기"
+title: "[Github blog] jekyll 블로그 꾸미기"
 date: 2021-05-05 20:58:28 +0900
-published: true
 tags: blog
 categories: blog
-typora-copy-images-to: ..\..\img
 ---
 
-### ✅ 오늘 한 일
-
-- 그동안 건드리지 못했던 블로그를 조금 업데이트 해봤다. 
+그동안 건드리지 못했던 블로그를 조금 업데이트 해봤다. 
 
 ![image-20210505211403840](/img/image-20210505211403840.png)
 
@@ -27,7 +23,7 @@ typora-copy-images-to: ..\..\img
 
 
 
-
+<br>
 
 ### References
 

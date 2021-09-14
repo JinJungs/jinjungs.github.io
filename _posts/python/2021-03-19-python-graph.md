@@ -1,11 +1,8 @@
 ---
 title: "[python] 다익스트라 알고리즘"
 date: 2021-03-19 18:58:28 +0900
-tags: python
-comments: true
-published: true
-categories: til python
-typora-copy-images-to: ..\..\img
+tags: python algorithm
+categories: python
 ---
 
 
@@ -104,6 +101,8 @@ for i in range(1, n+1):
 ```
 
 
+
+<br>
 
 ### 개선된 다익스트라 알고리즘
 

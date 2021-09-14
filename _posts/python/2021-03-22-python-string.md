@@ -1,11 +1,8 @@
 ---
-title: "[TIL] 210322_파이썬 string 활용-1"
+title: "[TIL] 파이썬 string 활용-1"
 date: 2021-03-22 18:58:28 +0900
 tags: python
-comments: true
-published: true
-categories: til python
-typora-copy-images-to: ..\..\img
+categories: python
 ---
 
 ### 오늘의 한마디

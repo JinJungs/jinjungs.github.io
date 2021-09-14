@@ -1,7 +1,8 @@
 ---
-title: "[TIL] 210215_넥사크로 SpringBoot 연동"
+title: "[TIL] 넥사크로 SpringBoot 연동"
 date: 2021-02-15 18:40:28 +0900
-categories: til nexacro
+categories: til
+tags: nexacro
 ---
 
 ### 오늘 한 일

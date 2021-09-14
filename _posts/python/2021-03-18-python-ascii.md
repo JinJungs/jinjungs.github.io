@@ -1,14 +1,8 @@
 ---
 title: "[python] 아스키코드 변환하기"
 date: 2021-03-18 18:58:28 +0900
-tags: python
-comments: true
-published: true
-categories: til python
-typora-copy-images-to: ..\..\img
+categories: python
 ---
-
-### [파이썬] 아스키코드 변환하기
 
 - `ord()` : 문자 -> 아스키코드
 

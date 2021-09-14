@@ -1,11 +1,8 @@
 ---
-title: "[TIL] 210324_파이썬 string 활용-3"
+title: "[TIL] 파이썬 string 활용-3"
 date: 2021-03-24 18:58:28 +0900
 tags: python
-comments: true
-published: true
-categories: til python
-typora-copy-images-to: ..\..\img
+categories: python
 ---
 
 

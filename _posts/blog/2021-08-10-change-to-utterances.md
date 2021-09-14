@@ -1,12 +1,8 @@
 ---
-title: "[TIL] 블로그 댓글 disqus에서 utterances로 변경하기, 구글 검색에 노출하기"
+title: "[Github blog] 블로그 댓글 disqus에서 utterances로 변경하기, 구글 검색에 노출하기"
 date: 2021-08-10 22:40:28 +0900
-comments: true
-published: true
-categories: til
-tags: blog
-typora-copy-images-to: ..\..\img
-
+categories: blog
+tags: utterances
 ---
 
 ## References

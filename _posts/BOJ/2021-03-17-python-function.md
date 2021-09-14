@@ -1,17 +1,13 @@
 ---
-title: "[python-백준] 함수 BOJ 문제풀이-2"
-description: "python 함수를 이용한 백준 알고리즘 풀이"
+title: "[백준] 함수-2"
 date: 2021-03-17 18:58:28 +0900
+categories: boj
 tags: python
-comments: true
-published: true
-categories: til python
-typora-copy-images-to: ..\..\img\2021-03-16
 ---
 
 
 
-### [파이썬] 백준 1065  - 한수
+### 백준 1065  - 한수
 
 한수일 때 `True` 를 리턴하는 함수를 먼저 작성한 후, n의 경우의 수를 나누어서 `if`문으로 한수의 개수를 세는 로직으로 작성하였다.
 
