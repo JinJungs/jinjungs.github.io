@@ -1,5 +1,5 @@
 ---
-title: "python"
+title: "Python"
 permalink: /categories/python/
 layout: archive
 author_profile: true
