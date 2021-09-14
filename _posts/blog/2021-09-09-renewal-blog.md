@@ -206,7 +206,8 @@ typora에서 이미지 붙여넣는 설정을 다음과 같이 바꿔주었다.
 
     
 
-    
+- 위에 masthead?를 눌렀을 때 post by category로 넘어가는데 그러지 말고 category-xxx 페이지로 넘어갔으면 좋겠다.
+  ![image-20210915005629034](../../img/2021-09-09-renewal-blog/image-20210915005629034.png)
 
 - prev, next에 해당 포스트의 제목 적어주기
 
