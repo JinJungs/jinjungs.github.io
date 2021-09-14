@@ -1,8 +1,8 @@
 ---
-title: "[TIL] 파이썬 string 활용-2"
+title: "[python] 파이썬 string 활용-2"
 date: 2021-03-23 18:58:28 +0900
-tags: python
 categories: python
+tags: python
 ---
 
 

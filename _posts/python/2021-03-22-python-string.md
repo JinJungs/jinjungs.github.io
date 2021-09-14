@@ -1,8 +1,8 @@
 ---
-title: "[TIL] 파이썬 string 활용-1"
+title: "[python] 파이썬 string 활용-1"
 date: 2021-03-22 18:58:28 +0900
-tags: python
 categories: python
+tags: python
 ---
 
 ### 오늘의 한마디
@@ -14,6 +14,8 @@ categories: python
 > ━ 이동진 평론가
 
 
+
+<br>
 
 ### [파이썬] 리스트 순서 거꾸로 뒤집기
 
@@ -77,6 +79,8 @@ print(sum(v)+len(v))
 ```
 
 
+
+<br>
 
 ### References
 

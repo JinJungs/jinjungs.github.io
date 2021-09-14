@@ -1,11 +1,8 @@
 ---
-title: "[python-문법] list 정리"
+title: "[python 문법] list 정리"
 date: 2021-04-20 18:58:28 +0900
 tags: python
-comments: true
-published: true
 categories: python
-typora-copy-images-to: ..\..\img
 ---
 
 

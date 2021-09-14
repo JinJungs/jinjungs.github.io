@@ -1,5 +1,5 @@
 ---
-title: "[TIL] 파이썬 기본수학 1-1"
+title: "[python] 파이썬 기본수학 1-1"
 date: 2021-03-25 18:58:28 +0900
 tags: python
 categories: python

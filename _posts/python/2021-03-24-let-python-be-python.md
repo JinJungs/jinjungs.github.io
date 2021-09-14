@@ -1,11 +1,8 @@
 ---
-title: "[강의] 프로그래머스 - 파이썬을 파이썬답게"
+title: "[python] 프로그래머스 - 파이썬을 파이썬답게"
 date: 2021-03-24 18:58:28 +0900
-tags: python
-comments: true
-published: true
 categories: python
-typora-copy-images-to: ..\..\img
+tags: python
 ---
 
 
@@ -14,9 +11,15 @@ typora-copy-images-to: ..\..\img
 
 진행중인 강의는 여기서 확인할 수 있다.
 
+
+
+프로그래머스에서 진행하는 온라인코스로, 다른 언어에 익숙한 사람들을 위한 더 파이썬스럽게 코드를 작성하는 법을 알려주는 코스다.
+
 - [파이썬을 파이썬답게](https://programmers.co.kr/learn/courses/4008)
 
 
+
+<br>
 
 ## 🔷 파트1. Python 꿀팁
 
@@ -48,6 +51,8 @@ mylist 각 원소의 길이는 100 이하인 자연수입니다.
 `map` 함수를 `int` 나 `str`로만 바꿔서 써봤었는데, `len`으로 길이같은 것도 구할 수 있다는 것을 알았다.
 
 
+
+<br>
 
 ## 🔷 파트2. 정수 다루기
 
@@ -93,6 +98,8 @@ answer = int(num, base)
 ```
 
 
+
+<br>
 
 ## 🔷 파트3. Str 다루기
 

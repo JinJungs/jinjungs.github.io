@@ -1,11 +1,8 @@
 ---
-title: "[python-문법] for문 정리"
+title: "[python 문법] for문 정리"
 date: 2021-03-24 18:58:28 +0900
-tags: python
-comments: true
-published: true
 categories: python
-typora-copy-images-to: ..\..\img
+tags: python
 ---
 
 ## 1. for in 반복문
