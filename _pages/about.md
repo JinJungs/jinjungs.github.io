@@ -4,11 +4,11 @@ layout: single
 permalink: /about/
 author_profile: true
 toc: true
+toc_icon: "bars"
+toc_sticky: true
 ---
 
 ## 사회의 문제를 해결하는 프로그래밍
-
-
 
 저는 항상 **사회에 공헌하는 사람**이 되고 싶었습니다.
 
