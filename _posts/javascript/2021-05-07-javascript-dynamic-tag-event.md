@@ -1,8 +1,7 @@
 ---
-title: "[TIL] 동적으로 생성된 태그에 이벤트 걸기"
+title: "[Javascript] 동적으로 생성된 태그에 이벤트 걸기"
 date: 2021-05-07 23:58:28 +0900
-tags: javascript
-categories: til
+categories: javascript
 ---
 
 이벤트를 먼저 선언을 해준 후에, ajax로 데이터를 받아서 화면에 뿌려주는 경우를 생각해보자.

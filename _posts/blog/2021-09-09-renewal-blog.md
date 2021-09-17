@@ -226,4 +226,5 @@ typora에서 이미지 붙여넣는 설정을 다음과 같이 바꿔주었다.
 - [문자박스](https://eona1301.github.io/a_to_z/GithubBlog/)
 - [minimal-mistakes 테마의 notice 기능 사용하기](https://ansohxxn.github.io/blog/notice/)
 - [Github.io 제목, 링크, 강조색 바꾸기](https://danggai.github.io/github.io/Github.io-%EC%A0%9C%EB%AA%A9,-%EB%A7%81%ED%81%AC,-%EA%B0%95%EC%A1%B0%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0/)
+- [식빵맘 - 같은 카테고리 내에서의 이전글, 다음글 이동](https://ansohxxn.github.io/blog/prevnext/)
 
