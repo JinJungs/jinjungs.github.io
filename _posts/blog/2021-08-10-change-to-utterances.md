@@ -1,6 +1,7 @@
 ---
-title: "[Github blog] 블로그 댓글 disqus에서 utterances로 변경하기, 구글 검색에 노출하기"
+title: "[Github blog] disqus에서 utterances로 변경하기, 구글 검색에 노출하기"
 date: 2021-08-10 22:40:28 +0900
+excerpt: 댓글플랫폼 변경과 google console 등록시 참고한 블로그 링크만 달아두었다.
 categories: blog
 tags: utterances
 ---

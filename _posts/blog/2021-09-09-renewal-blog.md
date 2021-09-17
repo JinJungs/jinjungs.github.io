@@ -1,8 +1,12 @@
 ---
 title: "[Github blog] 지킬 블로그 개편하기"
 date: 2021-09-09 00:23:28 +0900
-tags: devlog favicon toc
-categories: blog
+tags:
+  - devlog
+  - favicon
+  - toc
+categories:
+  - blog
 header:
   teaser: "../../img/2021-09-09-renewal-blog/Mesa de trabajo 1.png"
 ---
@@ -167,43 +171,8 @@ typora에서 이미지 붙여넣는 설정을 다음과 같이 바꿔주었다.
 
 - 본문 내용 넓히기
 
-- 카테고리 정리하기
-
-  - Backend
-
-    - Java
-    - Spring
-
-  - 기타언어
-
-    - Python(문법)
-    - Javascript
-
-  - DB
-
-    - Mysql
-    - JPA
-    - QueryDSL
-
-  - Coding Test
-
-    - 백준
-    - 프로그래머스
-
-  - 책
-    - 토비의 스프링
-    - 리팩토링
-
-  - 프로젝트
-
-    - 스프링 만들기
-
-  - ETC
-
-    - 시험 및 자격증
-    - 생각정리
-    - 회고
-
+- ~~카테고리 정리하기~~
+  - 아직 프로젝트(스프링만들기)가 없는듯
     
 
 - 위에 masthead?를 눌렀을 때 post by category로 넘어가는데 그러지 말고 category-xxx 페이지로 넘어갔으면 좋겠다.

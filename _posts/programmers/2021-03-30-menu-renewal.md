@@ -1,11 +1,8 @@
 ---
-title: "[python - 프로그래머스] 메뉴 리뉴얼"
+title: "[프로그래머스] 메뉴 리뉴얼"
 date: 2021-03-26 18:58:28 +0900
 tags: python
-comments: true
-published: true
-categories: python
-typora-copy-images-to: ..\..\img
+categories: programmers
 ---
 
 

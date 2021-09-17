@@ -1,11 +1,8 @@
 ---
-title: "[python - 프로그래머스] 광고 삽입"
+title: "[프로그래머스] 광고 삽입"
 date: 2021-03-26 18:58:28 +0900
+categories: programmers
 tags: python
-comments: true
-published: true
-categories: python
-typora-copy-images-to: ..\..\img
 ---
 
 > 2021 KAKAO BLIND RECRUITMENT 문제입니다.

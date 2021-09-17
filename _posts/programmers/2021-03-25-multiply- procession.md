@@ -1,11 +1,8 @@
 ---
-title: "[python - 프로그래머스] 행렬의 곱셈"
+title: "[프로그래머스] 행렬의 곱셈"
 date: 2021-03-25 18:58:28 +0900
 tags: python
-comments: true
-published: true
-categories: python
-typora-copy-images-to: ..\..\img
+categories: programmers
 ---
 
 ```python
