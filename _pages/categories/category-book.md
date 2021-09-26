@@ -1,5 +1,5 @@
 ---
-title: "ㅠook"
+title: "Book"
 permalink: /categories/book/
 layout: archive
 author_profile: true
