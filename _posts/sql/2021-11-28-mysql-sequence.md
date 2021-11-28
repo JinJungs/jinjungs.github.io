@@ -1,7 +1,7 @@
 ---
 title: "[mysql] mysql에서 시퀀스 생성하기"
 date: 2021-11-28 16:40:28 +0900
-categories: settings
+categories: sql
 tags: 
   - mysql
 ---
