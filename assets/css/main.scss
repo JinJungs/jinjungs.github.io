@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-// @import "minimal-mistakes/skins/default"; // skin # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+// @import "minimal-mistakes/skins/plum"; // skin # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 @import "minimal-mistakes"; // main partials    
 
 
@@ -30,7 +30,7 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px; // change to whatever
+    font-size: 18px; // change to whatever
   }
 }
 
