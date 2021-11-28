@@ -19,7 +19,8 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    // opacity: 0.75;
+    opacity: 0.9;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -70,6 +71,12 @@
     }
   }
 }
+
+// 211120 사이드바 스크롤바 css
+// main.scss에서 설정한 설정에 바뀌어야하는 부분만 따로 설정해줌
+// .sidebar::-webkit-scrollbar{display: block;}
+.sidebar::-webkit-scrollbar{width: 12px;}
+.sidebar::-webkit-scrollbar-thumb {border-radius: 5px;}
 
 .sidebar__right {
   margin-bottom: 1em;
