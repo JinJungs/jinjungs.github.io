@@ -1,7 +1,7 @@
 ---
 title: "[azure] azure mysql에서 한글깨짐 해결하기"
 date: 2021-12-02 23:40:28 +0900
-categories: sql
+categories: settings
 tags: 
   - mysql
   - azure
