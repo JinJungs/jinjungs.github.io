@@ -20,6 +20,18 @@ tags:
 
 
 
+<img src="../../img/2021-11-28-mysql-sequence/image-20211128223732188.png" alt="image-20211128223732188" style="zoom:67%;" />
+
 ### References
 
-- https://proudin.tistory.com/28
+- [Mysql에서 Sequence 기능을 사용하는 방법](https://proudin.tistory.com/28)
+- [SEQUENCE NEXTVAL 구현 프로시져](https://bulkywebdeveloper.tistory.com/62)
+- [[AWS RDS] You do not have the SUPER privilege and binary logging is enabled 에러 발생 시](https://medium.com/sjk5766/aws-rds-you-do-not-have-the-super-privilege-and-binary-logging-is-enabled-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D-%EC%8B%9C-f9ce557269fd)
+
+- [공식문서 -  Azure Database for MySQL로 마이그레이션하는 동안 또는 마이그레이션 후에 일반적으로 발생하는 오류](https://docs.microsoft.com/ko-kr/azure/mysql/howto-troubleshoot-common-errors)
+
+- [MySQL(MariaDB) 서버 타임존 설정하기](https://offbyone.tistory.com/318)
+
+- [java.sql.SQLException: No database selected](https://myybean.tistory.com/12)
+- [mysql에서 rownum 사용하기](https://dong-guri.tistory.com/5)
+

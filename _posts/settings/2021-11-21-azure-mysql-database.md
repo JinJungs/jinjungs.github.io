@@ -1,5 +1,4 @@
 ---
-
 title: "[azure] azure mysql database 만들기"
 date: 2021-11-21 20:40:28 +0900
 categories: settings
