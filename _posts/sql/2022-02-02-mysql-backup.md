@@ -22,7 +22,7 @@ tags:
 
 찾아보았더니 mysql은 보통 dump라는 걸 사용해서 백업을 하더라. 
 
-<br/>
+
 
 ### 데이터 백업 명령어
 
@@ -30,7 +30,7 @@ tags:
 mysqldump --routines –trigger –uroot -ppassword databasename > dump.sql
 ```
 
-<br/>
+
 
 ### Procedure, Function, Trigger, Event 포함 백업 명령어
 
@@ -39,6 +39,8 @@ mysqldump --routines –trigger –uroot -ppassword databasename > dump.sql
 ```
 
 
+
+<br/>
 
 근데 나는 Azure에 있는 mysql에 접속해서 백업을 해야하는데, 그러면 리눅스로 된 Azure VM을 또 만들어서 mysql을 설치하고 접속하고..해야해서, 포기하고 한땀한땀 백업했다. 어차피 데이터가 많은 것도 아니라서.
 
