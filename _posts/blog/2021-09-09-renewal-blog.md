@@ -1,5 +1,5 @@
 ---
-title: "[Github blog] 지킬 블로그 개편하기"
+title: "[Github blog] Jekyll 블로그 개편하기"
 date: 2021-09-09 00:23:28 +0900
 tags:
   - devlog
