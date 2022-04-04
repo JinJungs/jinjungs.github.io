@@ -71,9 +71,9 @@ public class User {
 }
 ```
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf15699f-2904-42c8-a19f-684a55da5929/DB837426-687D-42C6-943D-BE9A0241408D.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T083746Z&X-Amz-Expires=86400&X-Amz-Signature=4d67b58d2bbd0d9504a6cfe289599c2b407b4c9a50e11c983fe6e08949d4740b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DB837426-687D-42C6-943D-BE9A0241408D.jpeg%22&x-id=GetObject)
 
 
+<img src="../../img/tobi-spring/DB837426-687D-42C6-943D-BE9A0241408D.jpeg" alt="DB837426-687D-42C6-943D-BE9A0241408D.jpeg" style="zoom:50%;" />
 
 <br/>
 
@@ -227,7 +227,7 @@ UserDao의 내부코드를 공개하지 않고 N사와 D사에게 connection 만
 
 **상속을 통한 확장**
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6bf90664-bae8-41f9-be47-60f7bec573fd/4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T084056Z&X-Amz-Expires=86400&X-Amz-Signature=db17c3e57ef62d678c914845335475ffe05ec3d2ef8fc02ce75d521430e73e2e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg%22&x-id=GetObject)
+<img src="../../img/tobi-spring/4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" alt="4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" style="zoom:50%;" />
 
 ```java
 public abstract class UserDao {
@@ -249,11 +249,13 @@ public abstract class UserDao {
 	public abstract Connection getConnection() throws ClassNotFoundException, SQLException;
 	// 구현코드는 제거되고 추상메소드로 바뀌었다. 메소드의 구현은 서브클래스가 담당한다.
 }
+
 public class DUserDao extends UserDao{
 	public Connection getConnection() throws ClassNotFoundException, SQLException{
 		// D사 DB Connection 생성코드
 	}
 }
+
 public class NUserDao extends UserDao{
 	public Connection getConnection() throws ClassNotFoundException, SQLException{
 		// D사 DB Connection 생성코드
@@ -279,7 +281,7 @@ public class NUserDao extends UserDao{
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/581a0f1e-3997-48f8-97e4-dbe9e18ca271/26F56E8C-4F60-492D-A224-E933752C42CC.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T084409Z&X-Amz-Expires=86400&X-Amz-Signature=5ff1c9cffb2529cec0e577b2d086b197e73bf4c1b6fc75b98b294cb0abe29cf2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2226F56E8C-4F60-492D-A224-E933752C42CC.jpeg%22&x-id=GetObject)
+<img src="../../img/tobi-spring/26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" alt="26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" style="zoom:50%;" />
 
 <div class="notice--info" markdown="1">
 💡 UserDao는 Connection 인터페이스 타입의 오브젝트라는 것 외에는 관심을 두지 않는다. 어떤 방법으로 GetConnection 을 사용하는지는 NUserDao 와 DUserDao의 관심사항일 뿐이다.
