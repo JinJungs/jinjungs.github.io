@@ -73,7 +73,7 @@ public class User {
 
 
 
-<img src="../../img/tobi-spring/DB837426-687D-42C6-943D-BE9A0241408D.jpeg" alt="DB837426-687D-42C6-943D-BE9A0241408D.jpeg" style="zoom:50%;" />
+<img src="../../img/tobi-spring/1-1/DB837426-687D-42C6-943D-BE9A0241408D.jpeg" alt="DB837426-687D-42C6-943D-BE9A0241408D.jpeg" style="zoom:50%;" />
 
 <br/>
 
@@ -227,7 +227,7 @@ UserDao의 내부코드를 공개하지 않고 N사와 D사에게 connection 만
 
 **상속을 통한 확장**
 
-<img src="../../img/tobi-spring/4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" alt="4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" style="zoom:50%;" />
+<img src="../../img/tobi-spring/1-1/4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" alt="4DEE3FB2-EE6F-43A8-A476-794A3ACF7783.jpeg" style="zoom:50%;" />
 
 ```java
 public abstract class UserDao {
@@ -281,7 +281,7 @@ public class NUserDao extends UserDao{
 
 
 
-<img src="../../img/tobi-spring/26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" alt="26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" style="zoom:50%;" />
+<img src="../../img/tobi-spring/1-1/26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" alt="26F56E8C-4F60-492D-A224-E933752C42CC.jpeg" style="zoom:50%;" />
 
 <div class="notice--info" markdown="1">
 💡 UserDao는 Connection 인터페이스 타입의 오브젝트라는 것 외에는 관심을 두지 않는다. 어떤 방법으로 GetConnection 을 사용하는지는 NUserDao 와 DUserDao의 관심사항일 뿐이다.
