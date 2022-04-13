@@ -23,7 +23,7 @@ tags:
 
 JavaDoc 이라는 플러그인을 설치한다.
 
-![image-20220412175757829](D:\ejjung\000_private\jinjungs.github.io\img\image-20220412175757829.png)
+![image-20220412175757829](../../img/image-20220412175757829.png)
 
 
 
@@ -31,9 +31,7 @@ JavaDoc 이라는 플러그인을 설치한다.
 
 Settings > Tools > JavaDoc> Templates 탭에서 이러쿵 저러쿵 입맛대로 바꾸기가 가능하다.
 
-자동생성 단축키는 
-
-![image-20220412175852933](D:\ejjung\000_private\jinjungs.github.io\img\image-20220412175852933.png)
+![image-20220412175852933](../../img/image-20220412175852933.png)
 
 
 
@@ -41,7 +39,7 @@ Settings > Tools > JavaDoc> Templates 탭에서 이러쿵 저러쿵 입맛대로
 
 단축키는 `Alt + Shift + G` 이다. 나는 이클립스와 동일한 단축키인 `Alt + Shift + J`  도 추가해줬다.
 
-![image-20220412180041557](D:\ejjung\000_private\jinjungs.github.io\img\image-20220412180041557.png)
+![image-20220412180041557](../../img/image-20220412180041557.png)
 
 
 
