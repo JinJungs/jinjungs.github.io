@@ -5,7 +5,7 @@ excerpt: "깃허브 프로필을 꾸며보자"
 tags:
   - github
 categories:
-  - git
+  - github
 header:
   teaser: "../../img/git/github.png"
 ---

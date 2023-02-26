@@ -2,6 +2,7 @@
 title: "[Error] Plugin [id 'org.springframework.boot' version '2.1.8.RELEASE'] was not found in any of the following sources"
 
 date: 2022-04-06 11:00:28 +0900
+published: false
 categories:
   - error
 tags:
