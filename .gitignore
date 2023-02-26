@@ -31,3 +31,6 @@ _site
 # Vscode
 .vscode
 .idea
+
+# Obsidian
+.obsidian/*
