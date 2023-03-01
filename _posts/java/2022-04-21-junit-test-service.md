@@ -8,7 +8,7 @@ tags:
 categories:
   - java
 header:
-  teaser: "../../img/junit/cover.svg"
+  teaser: "../../img/cover/junit.png"
 ---
 
 

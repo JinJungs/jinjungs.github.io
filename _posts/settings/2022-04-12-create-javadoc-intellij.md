@@ -5,6 +5,8 @@ categories:
   - settings
 tags:
   - intellij
+header:
+  teaser: "../../img/cover/intellij.png"
 ---
 
 

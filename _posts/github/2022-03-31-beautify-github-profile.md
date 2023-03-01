@@ -7,7 +7,7 @@ tags:
 categories:
   - github
 header:
-  teaser: "../../img/git/github.png"
+  teaser: "../../img/cover/github.png"
 ---
 
 
