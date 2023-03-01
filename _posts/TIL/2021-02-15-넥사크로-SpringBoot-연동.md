@@ -3,6 +3,8 @@ title: "[TIL] 넥사크로 SpringBoot 연동"
 date: 2021-02-15 18:40:28 +0900
 categories: til
 tags: nexacro
+header:
+  teaser: "../../img/cover/til.png"
 ---
 
 ### 오늘 한 일
