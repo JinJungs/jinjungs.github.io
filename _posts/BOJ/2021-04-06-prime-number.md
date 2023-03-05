@@ -6,6 +6,8 @@ comments: true
 published: true
 categories: boj
 typora-copy-images-to: ..\..\img
+header:
+  teaser: "../../img/cover/boj.png"
 ---
 
 ### 1. 요약

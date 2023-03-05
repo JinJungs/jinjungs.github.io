@@ -3,6 +3,8 @@ title: "[백준] 함수-2"
 date: 2021-03-17 18:58:28 +0900
 categories: boj
 tags: python
+header:
+  teaser: "../../img/cover/boj.png"
 ---
 
 
