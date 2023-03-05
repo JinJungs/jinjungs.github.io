@@ -5,6 +5,8 @@ categories: settings
 tags: 
   - azure
   - mysql
+header:
+  teaser: "../../img/cover/azure.png"
 ---
 
 

@@ -7,6 +7,8 @@ tags:
   - java
   - spring
   - refactoring
+header:
+  teaser: "../../img/cover/vscode.png"
 ---
 
 

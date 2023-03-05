@@ -4,6 +4,8 @@ date: 2021-08-10 22:40:28 +0900
 excerpt: 댓글플랫폼 변경과 google console 등록시 참고한 블로그 링크만 달아두었다.
 categories: blog
 tags: utterances
+header:
+  teaser: "../../img/cover/utterances.png"
 ---
 
 ## References

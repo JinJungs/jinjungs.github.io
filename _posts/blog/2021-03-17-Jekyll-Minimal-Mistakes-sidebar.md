@@ -3,6 +3,8 @@ title: "[Github blog] Jekyll Minimal Mistakes 사이드바 적용하기"
 date: 2021-03-17 18:58:28 +0900
 tags: jekyll blog
 categories: blog
+header:
+  teaser: "../../img/cover/jekyll.png"
 ---
 
 

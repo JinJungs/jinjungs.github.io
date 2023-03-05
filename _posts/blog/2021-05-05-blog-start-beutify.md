@@ -3,6 +3,8 @@ title: "[Github blog] Jekyll 블로그 꾸미기"
 date: 2021-05-05 20:58:28 +0900
 tags: blog
 categories: blog
+header:
+  teaser: "../../img/cover/jekyll.png"
 ---
 
 그동안 건드리지 못했던 블로그를 조금 업데이트 해봤다. 
