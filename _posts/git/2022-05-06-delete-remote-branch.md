@@ -8,7 +8,7 @@ tags:
 categories:
   - git
 header:
-  teaser: "../../img/git/git.jpg"
+  teaser: "../../img/cover/git.jpg"
 ---
 
 
