@@ -3,6 +3,8 @@ title: "[프로그래머스] 광고 삽입"
 date: 2021-03-26 18:58:28 +0900
 categories: programmers
 tags: python
+header:
+  teaser: "../../img/cover/programmers.png"
 ---
 
 > 2021 KAKAO BLIND RECRUITMENT 문제입니다.

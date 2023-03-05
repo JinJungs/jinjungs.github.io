@@ -3,6 +3,8 @@ title: "[프로그래머스] 메뉴 리뉴얼"
 date: 2021-03-26 18:58:28 +0900
 tags: python
 categories: programmers
+header:
+  teaser: "../../img/cover/programmers.png"
 ---
 
 
