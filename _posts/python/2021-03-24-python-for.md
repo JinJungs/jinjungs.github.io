@@ -3,6 +3,8 @@ title: "[python 문법] for문 정리"
 date: 2021-03-24 18:58:28 +0900
 categories: python
 tags: python
+header:
+  teaser: "../../img/cover/python.png"
 ---
 
 ## 1. for in 반복문

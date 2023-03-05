@@ -3,6 +3,8 @@ title: "[python] 파이썬을 파이썬답게"
 date: 2021-03-24 18:58:28 +0900
 categories: python
 tags: python lecture
+header:
+  teaser: "../../img/cover/python.png"
 ---
 
 

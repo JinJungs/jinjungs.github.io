@@ -3,6 +3,8 @@ title: "[python] 다익스트라 알고리즘"
 date: 2021-03-19 18:58:28 +0900
 categories: python
 tags: python algorithm
+header:
+  teaser: "../../img/cover/python.png"
 ---
 
 

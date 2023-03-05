@@ -3,6 +3,8 @@ title: "[python] 파이썬 string 활용-1"
 date: 2021-03-22 18:58:28 +0900
 categories: python
 tags: python
+header:
+  teaser: "../../img/cover/python.png"
 ---
 
 ### 오늘의 한마디
